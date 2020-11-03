@@ -3,7 +3,7 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>Search Engine by Rafsan</title>
+	<title>Search Engine</title>
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 	<!-- jQuery library -->
@@ -16,10 +16,10 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<body style="background-color : #17202A; color : white;">
+<body style="background-color : white;">
 	<div class="container">
 		<br /> <br /> <br />
-		<h1 style="text-align: center; color: rgb(168,12,64);">Live Search Engine </h1>
+		<h1 style="text-align: center; color: rgb(168,12,64);">phpmySearch </h1>
 		<br /> <br />
 
 		<div class="row">
